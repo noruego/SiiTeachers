@@ -1,0 +1,12 @@
+C:\Users\Israel-Moreno\source\repos\SIIPROFESORES\SIIPROFESORES\SIIPROFESORES\bin\Debug\netstandard2.0\SIIPROFESORES.deps.json
+C:\Users\Israel-Moreno\source\repos\SIIPROFESORES\SIIPROFESORES\SIIPROFESORES\bin\Debug\netstandard2.0\SIIPROFESORES.dll
+C:\Users\Israel-Moreno\source\repos\SIIPROFESORES\SIIPROFESORES\SIIPROFESORES\bin\Debug\netstandard2.0\SIIPROFESORES.pdb
+C:\Users\Israel-Moreno\source\repos\SIIPROFESORES\SIIPROFESORES\SIIPROFESORES\obj\Debug\netstandard2.0\SIIPROFESORES.csprojAssemblyReference.cache
+C:\Users\Israel-Moreno\source\repos\SIIPROFESORES\SIIPROFESORES\SIIPROFESORES\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Israel-Moreno\source\repos\SIIPROFESORES\SIIPROFESORES\SIIPROFESORES\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Israel-Moreno\source\repos\SIIPROFESORES\SIIPROFESORES\SIIPROFESORES\obj\Debug\netstandard2.0\SIIPROFESORES.csproj.CoreCompileInputs.cache
+C:\Users\Israel-Moreno\source\repos\SIIPROFESORES\SIIPROFESORES\SIIPROFESORES\obj\Debug\netstandard2.0\SIIPROFESORES.AssemblyInfoInputs.cache
+C:\Users\Israel-Moreno\source\repos\SIIPROFESORES\SIIPROFESORES\SIIPROFESORES\obj\Debug\netstandard2.0\SIIPROFESORES.AssemblyInfo.cs
+C:\Users\Israel-Moreno\source\repos\SIIPROFESORES\SIIPROFESORES\SIIPROFESORES\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Israel-Moreno\source\repos\SIIPROFESORES\SIIPROFESORES\SIIPROFESORES\obj\Debug\netstandard2.0\SIIPROFESORES.dll
+C:\Users\Israel-Moreno\source\repos\SIIPROFESORES\SIIPROFESORES\SIIPROFESORES\obj\Debug\netstandard2.0\SIIPROFESORES.pdb
